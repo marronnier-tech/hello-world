@@ -12,7 +12,7 @@ I was in computer club at junior & high school.
 I can read and write some programming languages, for example C++, python, HTML, CSS, JavaScript, Java, R, and so on.
 I'm also trying my hand to competition programming.
 
-I'm looking forward to share with you many ideas someday here.
+I'm looking forward to sharing with you many ideas someday here.
 Please wait for me just a time.
 
 
